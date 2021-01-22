@@ -1,0 +1,25 @@
+project:
+  owner: 'owner1'
+  teamId: '3234'
+  identities:
+    pivotal:
+      projectId: 454123
+    heroku:
+      appId: 'dfasdfas1-adf-adf'
+    travis:
+      url: 'https://travis-ci.org/github/maria/testing'
+  members:
+    member1:
+      name: 'Maria'
+      surname: 'Dominguez' 
+      email: 'maria@email.com'
+      githubUsername: 'mairagit'
+      pivotalUsername: 'mariapit'
+    member2:
+      name: 'Paco'
+      surname: 'Domingo' 
+      email: 'domingo@email.com'
+      githubUsername: 'pacogit'
+      pivotalUsername: 'pacopit'
+
+
