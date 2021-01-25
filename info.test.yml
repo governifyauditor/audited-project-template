@@ -1,4 +1,5 @@
 project:
+  name: 'My Project Name'
   owner: 'owner1'
   teamId: '3234'
   identities:
@@ -12,14 +13,14 @@ project:
     member1:
       name: 'Maria'
       surname: 'Dominguez' 
-      email: 'maria@email.com'
       githubUsername: 'mairagit'
       pivotalUsername: 'mariapit'
+      herokuEmail: 'maria@email.com'
     member2:
       name: 'Paco'
       surname: 'Domingo' 
-      email: 'domingo@email.com'
       githubUsername: 'pacogit'
       pivotalUsername: 'pacopit'
+      herokuEmail: 'domingo@email.com'
 
 
