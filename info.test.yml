@@ -4,7 +4,7 @@ project:
   teamId: '3234'
   identities:
     pivotal:
-      projectId: 454123
+      projectId: '454123'
     heroku:
       appId: 'dfasdfas1-adf-adf'
     travis:
