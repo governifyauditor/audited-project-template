@@ -1,28 +1,28 @@
 project:
-  name: 'Project Name'
-  owner: ''
-  teamId: '0'
+  name: 'string'
+  owner: 'string'
+  teamId: 'string'
   identities:
     pivotal:
-      projectId: '0'
+      projectId: 'number'
     heroku:
-      appId: 'id'
+      appId: 'string'
     travis:
-      url: 'https://'
+      url: 'url'
     codecov:
-      url: 'https://'
+      url: 'url'
   members:
     member1:
-      name: ''
-      surname: '' 
-      githubUsername: ''
-      pivotalUsername: ''
-      herokuEmail: '@'
+      name: 'string'
+      surname: 'string' 
+      githubUsername: 'string'
+      pivotalUsername: 'string'
+      herokuEmail: 'email'
     member2:
-      name: ''
-      surname: '' 
-      githubUsername: ''
-      pivotalUsername: ''
-      herokuEmail: '@'
+      name: 'string'
+      surname: 'string' 
+      githubUsername: 'string'
+      pivotalUsername: 'string'
+      herokuEmail: 'email'
 
 
