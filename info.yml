@@ -4,9 +4,9 @@ project:
   teamId: 'string'
   identities:
     pivotal:
-      projectId: 'number'
+      url: 'url'
     heroku:
-      appId: 'string'
+      url: 'url'
     travis:
       url: 'url'
     codecov:
@@ -24,5 +24,3 @@ project:
       githubUsername: 'string'
       pivotalUsername: 'string'
       herokuEmail: 'email'
-
-
