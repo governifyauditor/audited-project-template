@@ -19,7 +19,7 @@ project:
     member2:
       name: 'Paco'
       surname: 'Domingo' 
-      githubUsername: 'pacogit'
+      githubUsername: 'anuserthatdoesnotexist'
       pivotalUsername: 'pacopit'
       herokuEmail: 'domingo@email.com'
 
