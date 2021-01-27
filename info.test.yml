@@ -4,16 +4,16 @@ project:
   teamId: '3234'
   identities:
     pivotal:
-      projectId: '454123'
+      url: 'https://www.pivotaltracker.com/n/projects/2242320'
     heroku:
-      appId: 'dfasdfas1-adf-adf'
+      url: 'asdf'
     travis:
       url: 'https://travis-ci.org/github/maria/testing'
   members:
     member1:
       name: 'Maria'
       surname: 'Dominguez' 
-      githubUsername: 'mairagit'
+      githubUsername: 'cesgarpas'
       pivotalUsername: 'mariapit'
       herokuEmail: 'maria@email.com'
     member2:
