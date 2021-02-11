@@ -9,7 +9,7 @@ project:
       url: 'url'
     travis:
       url: 'url'
-    codecov:
+    codeclimate:
       url: 'url'
   members:
     member1:
