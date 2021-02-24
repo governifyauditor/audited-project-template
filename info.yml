@@ -12,13 +12,7 @@ project:
     codeclimate:
       url: 'url'
   members:
-    member1:
-      name: 'string'
-      surname: 'string' 
-      githubUsername: 'string'
-      pivotalUsername: 'string'
-      herokuEmail: 'email'
-    member2:
+    member:
       name: 'string'
       surname: 'string' 
       githubUsername: 'string'
