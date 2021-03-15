@@ -16,5 +16,3 @@ project:
       name: 'string'
       surname: 'string' 
       githubUsername: 'string'
-      pivotalUsername: 'string'
-      herokuEmail: 'email'
