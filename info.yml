@@ -3,6 +3,8 @@ project:
   owner: 'string'
   teamId: 'string'
   identities:
+    github:
+      url: 'url'
     pivotal:
       url: 'url'
     heroku:
