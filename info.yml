@@ -3,16 +3,11 @@ project:
   owner: 'string'
   teamId: 'string'
   identities:
-    github:
-      url: 'url'
-    pivotal:
-      url: 'url'
-    heroku:
-      url: 'url'
-    travis:
-      url: 'url'
-    codeclimate:
-      url: 'url'
+    github: 'url'
+    pivotal: 'url'
+    heroku: 'url'
+    travis: 'url'
+    codeclimate: 'url'
   members:
     member:
       name: 'string'
